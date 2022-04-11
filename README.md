@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shanecupid1@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn - https://www.linkedin.com/in/shane-cupid-92a418b4/](LinkedIn - https://www.linkedin.com/in/shane-cupid-92a418b4/)
+- 📄 Know about my experiences (LinkedIn - https://www.linkedin.com/in/shane-cupid-92a418b4/)
 
 - ⚡ Fun fact **I love soccer, investing/ownership, entrepreneurship and innovation that improves quality of life.**
 
