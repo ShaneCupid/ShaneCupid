@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Python, AI, and delving into the world of Data Analytics**
 
-- 💬 Ask me about **Anything. I enjoy a good conversation.**
+- 💬 Ask me about **Business, finance, and tech - I love talking about these concepts**
 
-- 📫 How to reach me **shanecupid1@gmail.com**
+- 📫 How to reach me **cupidconsultingllc@gmail.com**
 
 - 📄 Know about my experiences (LinkedIn - https://www.linkedin.com/in/shane-cupid-92a418b4/)
 
-- ⚡ Fun fact **I love soccer, investing/ownership, entrepreneurship and innovation that improves quality of life.**
+- ⚡ Fun fact **I love soccer, investing, entrepreneurship and innovation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
