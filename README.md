@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, MySQL, JavaScript, Spring Boot, Angular, Nodejs, Blockchain, Solidity & AWS**
+- 🌱 I’m currently learning **Python, AI, and delving into the world of Data Analytics**
 
 - 💬 Ask me about **Anything. I enjoy a good conversation.**
 
