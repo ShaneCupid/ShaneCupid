@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shane Cupid</h1>
-<h3 align="center">A passionateExploring the world of creation and innovation through code frontend developer from India</h3>
+<h3 align="center">Exploring the world of creation and innovation through code </h3>
 
 - 🔭 I’m currently working on **...stay tuned 😀**
 
