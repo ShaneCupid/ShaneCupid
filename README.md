@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, AI, and delving into the world of Data Analytics**
+- 🌱 I’m currently learning **Python, Machine Learning, and delving into the world of Data Analytics**
 
 - 💬 Ask me about **Business, finance, and tech - I love talking about these concepts**
 
