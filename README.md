@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning, and delving into the world of Data Analytics**
 
-- 💬 Ask me about **Business, finance, and tech - I love talking about these concepts**
+- 💬 Ask me about **Business, finance, and tech**
 
 - 📫 How to reach me **cupidconsultingllc@gmail.com**
 
