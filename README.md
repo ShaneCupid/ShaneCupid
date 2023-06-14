@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **...stay tuned 😀**
 
-- 🌱 I’m currently learning **ython, Machine Learning, and delving into the world of Data Analytics**
+- 🌱 I’m currently learning **Python, Machine Learning, and delving into the world of Data Analytics**
 
 - 💬 Ask me about **Business, finance, and tech**
 
