@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shane Cupid</h1>
-<h3 align="center">Exploring the world of creation and innovation through code </h3>
+<h3 align="center">Diving deep into NLP and AI to innovate in healthcare and agriculture</h3>
 
-- 🔭 I’m currently working on **...stay tuned 😀**
+- 🔭 I’m currently working on **NLP projects using technologies like spaCy, NLTK, and TensorFlow to extract insights from unstructured data. Stay tuned! 😀**
 
-- 🌱 I’m currently learning **Python, Machine Learning, and delving into the world of Data Analytics**
+- 🌱 I’m currently learning **Advanced Python, NLP techniques, and exploring TensorFlow and PyTorch frameworks. My goal is to transfer these skills to healthcare and agriculture for the advancement and ease of humanity.**
 
-- 💬 Ask me about **Business, finance, and tech**
+- 💬 Ask me about **How AI and NLP can revolutionize healthcare and agriculture, or how to build a scalable ML model.**
 
 - 📫 How to reach me **cupidconsultingllc@gmail.com**
 
-- ⚡ Fun fact **I love soccer, investing, entrepreneurship and innovation**
+- ⚡ Fun fact **Passionate about soccer, investing in tech startups, and advocating for sustainable agriculture through AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
