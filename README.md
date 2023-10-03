@@ -8,7 +8,7 @@
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, and <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>.</p>
 
 <h3 align="left">🎯 My Goals:</h3>
-<p>Aspiring to enroll in a Ph.D. or Master's program with a focus on Data Science and Machine Learning.</p>
+<p>Aspiring to enroll in a Ph.D. or Master's program with a focus on Data Science and Machine Learning. Besides that, Build, Innovate, and Collaborate</p>
 
 <h3 align="left">🛠 Recent Projects:</h3>
 <p>I've recently built a chatbot using Langchain, trained on YouTube transcripts. Additionally, I'm actively developing machine learning solutions for real estate investing and stock trading.</p>
