@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shane Cupid</h1>
-<h3 align="center">Diving deep into NLP and AI to innovate in healthcare and agriculture</h3>
+<h1 align="center">✨ Peace, Friends! I'm Shane Cupid. Welcome to a glimpse of my journey, as I delve into the world of AI through a myriad of captivating projects 🤖</h1>
+<h3 align="center">Embarking on a Journey into NLP and AI with Aspirations to Innovate in Healthcare and Agriculture 🌱🌍</h3>
+
+<h3 align="left">📚 What I'm Reading:</h3>
+<p>I'm currently engrossed in "Algorithms to Live By: The Computer Science of Human Decisions".</p>
+
+<h3 align="left">📺 YouTube Channels I Value:</h3>
+<p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, and <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>.</p>
+
+<h3 align="left">🎯 My Goals:</h3>
+<p>Aspiring to enroll in a Ph.D. or Master's program with a focus on Data Science and Machine Learning.</p>
+
+<h3 align="left">🛠 Recent Projects:</h3>
+<p>I've recently built a chatbot using Langchain, trained on YouTube transcripts. Additionally, I'm actively developing machine learning solutions for real estate investing and stock trading.</p>
 
 - 🔭 I’m currently working on **NLP projects using technologies like spaCy, NLTK, and TensorFlow to extract insights from unstructured data. Stay tuned! 😀**
 
