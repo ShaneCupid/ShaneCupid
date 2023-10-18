@@ -1,5 +1,5 @@
 <h1 align="center">✨ Peace, Friends! I'm Shane,a student of this recursive simulation we call "Life" . We are in a Technological Renaissance 🛸</h1>
-<h3 align="center">Embarking on a Journey into NLP and AI with Aspirations to Innovate in Healthcare and Agriculture 🌱🌍</h3>
+<h3 align="center">Embarking on a Journey into AI and ML 🌱🌍</h3>
 
 <h3 align="left">📚 What I'm Reading:</h3>
 <p>I'm currently engrossed in "Algorithms to Live By: The Computer Science of Human Decisions".</p>
