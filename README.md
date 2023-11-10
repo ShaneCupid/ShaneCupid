@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on **NLP projects using technologies like spaCy, NLTK, and TensorFlow to extract insights from unstructured data. Stay tuned! 😀**
 
-- 🌱 I’m currently learning **Advanced Python, NLP techniques, and exploring TensorFlow and PyTorch frameworks. My goal is to transfer these skills to healthcare and agriculture for the advancement and ease of humanity.**
+- 🌱 I’m currently learning **Advanced Python, NLP techniques, and exploring TensorFlow and PyTorch frameworks. My goal is to transfer these skills to healthcare and agriculture for the advancement and ease of humanity...One day.. I am learning everyday!**
 
-- 💬 Ask me about **How AI and NLP can revolutionize healthcare and agriculture, or how to build a scalable ML model.**
+- 💬 Ask me about **How Generative AI can revolutionize healthcare and agriculture, or how to build a scalable ML model.**
 
 - 📫 How to reach me **cupidconsultingllc@gmail.com**
 
-- ⚡ Fun fact **Passionate about soccer, investing in tech startups, and advocating for sustainable agriculture through AI.**
+- ⚡ Fun fact **Passionate about soccer, creating my own tech company that has real value, and advocating for a sustaibable life here on Earth with the integration of AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
