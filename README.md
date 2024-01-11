@@ -1,4 +1,4 @@
-<h1 align="center">✨ Peace, Friends! I'm Shane,a student of this recursive simulation we call "Life" . We are in a Technological Renaissance 🛸</h1>
+<h1 align="center">✨ Peace, Friends! I'm Shane Cupid, a student of this recursive simulation we call "Life" . We are in a Technological Renaissance 🛸</h1>
 <h3 align="center">Embarking on a Journey into AI and ML 🌱🌍</h3>
 
 <h3 align="left">📚 What I'm Reading:</h3>
