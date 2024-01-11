@@ -1,5 +1,5 @@
-<h1 align="center">✨ Peace, Friends! I'm Shane Cupid, a student of this recursive simulation we call "Life" . We are in a Technological Renaissance 🛸</h1>
-<h3 align="center">Embarking on a Journey into AI and ML 🌱🌍</h3>
+<h1 align="center">✨ Peace, Friends! I'm Shane Cupid, a student of this recursive simulation we call "Life". We are in a Technological Renaissance 🛸</h1>
+<h3 align="center">Embarking on a Journey into AI/ML 🌱🌍</h3>
 
 <h3 align="left">📚 What I'm Reading:</h3>
 <p>I'm currently engrossed in "Principles for Dealing with THE CHANGING WORLD ORDER Why Nations Succeed and Fail By Ray Dalio".</p>
@@ -11,15 +11,15 @@
 <p>Aspiring to enroll in a Ph.D. or Master's program with a focus on Data Science and Machine Learning. Besides that, Build, Innovate, and Collaborate</p>
 
 <h3 align="left">🛠 Recent Projects:</h3>
-<p>As a data analyst transitioning into a machine learning engineering role, I have recently engaged in a range of projects that showcase my growing expertise. My portfolio includes a predictive model for hospital length of stay, a sales forecast for BigMart outlets, and a network analysis of the "Game of Thrones" series—all developed using advanced data science techniques and machine learning algorithms. These projects are part of my coursework from the MIT Applied Data Science Program, where I'm honing my skills in Python, machine learning, and data visualization.</p>
+<p>As a data analyst transitioning into a machine learning engineering role, I have recently engaged in various projects that showcase my growing expertise. My portfolio includes a predictive model for hospital length of stay, a sales forecast for BigMart outlets, and a network analysis of the "Game of Thrones" series—all developed using advanced data science techniques and machine learning algorithms. These projects are part of my coursework from the MIT Applied Data Science Program, where I'm honing my skills in Python, machine learning, and data visualization.</p>
 
 - 🔭 I’m currently working on **an AI-driven approach to network analysis, involving phases of interaction dynamics and predictive analytics. My projects leverage tools such as NetworkX and TensorFlow to decipher complex patterns and forecast trends.**
 
-- 🌱 I’m expanding my knowledge in **Advanced Python, network analysis, and machine learning with a focus on practical applications. With each project, I aim to bridge the gap between data and actionable insights, particularly in sectors like healthcare and agriculture, where data-driven decisions can make a profound impact.**
+- 🌱 I’m expanding my knowledge in **Advanced Python, network analysis, and machine learning with a focus on practical applications. With each project, I aim to bridge the gap between data and actionable insights, where data-driven decisions can make a profound impact.**
 
 - 🤖 Among my innovative creations is **a chatbot tailored to YouTube content using Langchain, highlighting my versatility in handling various types of data and my passion for bringing AI closer to everyday experiences.**
 
-- 👀 Looking ahead, **I'm excited to apply my data science acumen to the fields of real estate and stock trading, where I'm currently developing machine learning solutions to predict market movements and investment opportunities.**
+- 👀 Looking ahead, **I'm excited to apply my data science understanding to real estate and stock trading, where I'm currently developing machine learning solutions to predict market movements and investment opportunities.**
 
 - 💬 Ask me about **How Generative AI can revolutionize healthcare and agriculture, or how to build a scalable ML model.**
 
