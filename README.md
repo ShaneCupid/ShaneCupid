@@ -2,7 +2,7 @@
 <h3 align="center">Embarking on a Journey into AI and ML 🌱🌍</h3>
 
 <h3 align="left">📚 What I'm Reading:</h3>
-<p>I'm currently engrossed in "Algorithms to Live By: The Computer Science of Human Decisions".</p>
+<p>I'm currently engrossed in "Principles for Dealing with THE CHANGING WORLD ORDER Why Nations Succeed and Fail By Ray Dalio".</p>
 
 <h3 align="left">📺 YouTube Channels I Value:</h3>
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, and <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>.</p>
