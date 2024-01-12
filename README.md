@@ -1,6 +1,9 @@
 <h1 align="center">✨ Peace, Friends! I'm Shane Cupid, a student of this recursive simulation we call "Life". We are in a Technological Renaissance 🛸</h1>
 <h3 align="center">Embarking on a Journey into AI/ML 🌱🌍</h3>
 
+<h3 align="left">🎓 Educational Pursuits:</h3>
+<p>I'm in the midst of making a pivotal decision between several prestigious programs: Texas Tech's Applied Data Science, Penn's Masters in AI, and Georgia Tech's Comp/Sci-ML. Each program offers a unique perspective on AI/ML, and I'm excited to embark on this next educational chapter post-Marine Corps, where discipline and determination were my key takeaways.</p>
+
 <h3 align="left">📚 What I'm Reading:</h3>
 <p>I'm currently engrossed in "Principles for Dealing with THE CHANGING WORLD ORDER Why Nations Succeed and Fail By Ray Dalio".</p>
 
@@ -8,7 +11,7 @@
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, and <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>.</p>
 
 <h3 align="left">🎯 My Goals:</h3>
-<p>Aspiring to enroll in a Ph.D. or Master's program with a focus on Data Science and Machine Learning. Besides that, Build, Innovate, and Collaborate</p>
+<p>With a foundation built on discipline and resilience from my time in the Marine Corps, I am now navigating the crossroads of higher education in AI and ML. I'm considering offers from prestigious institutions like Texas Tech, Penn, and Georgia Tech for programs in Applied Data Science, AI, and ML. My ambition is to leverage this advanced education to innovate and collaborate on AI/ML projects that tackle real-world challenges, merging my military-honed skills with cutting-edge technology.</p>
 
 <h3 align="left">🛠 Recent Projects:</h3>
 <p>As a data analyst transitioning into a machine learning engineering role, I have recently engaged in various projects that showcase my growing expertise. My portfolio includes a predictive model for hospital length of stay, a sales forecast for BigMart outlets, and a network analysis of the "Game of Thrones" series—all developed using advanced data science techniques and machine learning algorithms. These projects are part of my coursework from the MIT Applied Data Science Program, where I'm honing my skills in Python, machine learning, and data visualization.</p>
