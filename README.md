@@ -22,9 +22,9 @@
 
 - 🤖 Among my innovative creations is **a chatbot tailored to YouTube content using Langchain, highlighting my versatility in handling various types of data and my passion for bringing AI closer to everyday experiences.**
 
-- 👀 Looking ahead, **I'm excited to apply my data science understanding to real estate and stock trading, where I'm currently developing machine learning solutions to predict market movements and investment opportunities.**
+- 👀 Looking ahead, **I'm eager to leverage my data science expertise across various industries. My skill set in machine learning and analytics is versatile, capable of unlocking insights and driving innovation in fields like real estate, stock trading, and even the health sector. However, my passion for data knows no bounds. Whether it's forecasting market trends, enhancing customer experiences, or contributing to cutting-edge health technologies, I'm committed to applying my knowledge to solve complex challenges in any domain.**
 
-- 💬 Ask me about **How Generative AI can revolutionize healthcare and agriculture, or how to build a scalable ML model.**
+- 💬 Curious about the impact of Generative AI? **Let's talk about how it's transforming industries with innovative solutions. Discuss with me the art of building scalable, efficient ML models poised to tackle complex challenges and drive technological advancement. My focus is on harnessing the power of AI to revolutionize the way we approach problems and create opportunities.**
 
 - 📫 How to reach me **cupidconsultingllc@gmail.com**
 
