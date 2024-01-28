@@ -8,7 +8,7 @@
 <p>I'm currently engrossed in "THE CREATIVE ACT: A Way of being By Rick Rubin".</p>
 
 <h3 align="left">📺 YouTube Channels I Value:</h3>
-<p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, and <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>.</p>
+<p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
 
 <h3 align="left">🎯 My Goals:</h3>
 <p> I'm considering offers from prestigious institutions like Texas Tech, Penn, and Georgia Tech for programs in Applied Data Science, AI, and ML. My ambition is to leverage this advanced education to innovate and collaborate on AI/ML projects that tackle real-world challenges, merging my military and business background with cutting-edge technology.</p>
