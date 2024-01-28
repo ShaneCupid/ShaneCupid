@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **cupidconsultingllc@gmail.com**
 
-- ⚡ Fun fact **Passionate about soccer, creating my own tech company that has real value, and advocating for a sustainable life here on Earth with the integration of AI.**
+- ⚡ More about me **Passionate about soccer, family, financial freedom and innovative solutions that benefit humanity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
