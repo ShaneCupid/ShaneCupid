@@ -5,7 +5,7 @@
 <p>I'm in the midst of making a pivotal decision between several prestigious programs: Texas Tech's Applied Data Science, Penn's Masters in AI, and Georgia Tech's Comp/Sci-ML. Each program offers a unique perspective on AI/ML, and I'm excited to embark on this next educational chapter post-Marine Corps, where discipline and determination were my key takeaways.</p>
 
 <h3 align="left">📚 What I'm Reading:</h3>
-<p>I'm currently engrossed in "Principles for Dealing with THE CHANGING WORLD ORDER Why Nations Succeed and Fail By Ray Dalio".</p>
+<p>I'm currently engrossed in "THE CREATIVE ACT: A Way of being By Rick Rubin".</p>
 
 <h3 align="left">📺 YouTube Channels I Value:</h3>
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, and <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>.</p>
@@ -16,7 +16,7 @@
 <h3 align="left">🛠 Recent Projects:</h3>
 <p>As a data analyst transitioning into a Data Scientist role, I have recently engaged in various projects that showcase my growing expertise. My portfolio includes a predictive model for hospital length of stay, a sales forecast for BigMart outlets, and a network analysis of the "Game of Thrones" series—all developed using advanced data science techniques and machine learning algorithms. These projects are part of my coursework from the MIT Applied Data Science Program, where I'm honing my skills in Python, machine learning, and data visualization.</p>
 
-- 🔭 I’m currently working on **an AI-driven approach to network analysis, involving phases of interaction dynamics and predictive analytics. My projects leverage tools such as NetworkX and TensorFlow to decipher complex patterns and forecast trends.**
+- 🔭 I’m currently working on *Recommendation Systems, a fascinating area in AI that intersects with our digital lives daily. My coursework covers a spectrum of topics from the basics of recommendation algorithms to advanced concepts like Matrix Factorization and Neural Networks for personalized suggestions. I’m exploring how these systems differ from traditional predictive models and learning to apply sophisticated algorithms for more accurate and user-centric recommendations.**
 
 - 🌱 I’m expanding my knowledge in **Advanced Python, network analysis, and machine learning with a focus on practical applications. With each project, I aim to bridge the gap between data and actionable insights, where data-driven decisions can make a profound impact.**
 
