@@ -1,8 +1,8 @@
-<h1 align="center">✨ Peace, Friends! I'm Shane Cupid, a student of this recursive simulation we call "Life". We are in a Technological Renaissance 🛸</h1>
+<h1 align="center">✨ Hello Nerds ! I'm Shane Cupid, a student of this recursive simulation we call "Life". We are in a Technological Renaissance 🛸</h1>
 <h3 align="center">Embarking on a Journey into AI/ML 🌱🌍</h3>
 
 <h3 align="left">🎓 Educational Pursuits:</h3>
-<p>I'm in the midst of making a pivotal decision between several prestigious programs: Texas Tech's Applied Data Science, Penn's Masters in AI, and Georgia Tech's Comp/Sci-ML. Each program offers a unique perspective on AI/ML, and I'm excited to embark on this next educational chapter post-Marine Corps, where discipline and determination were my key takeaways.</p>
+<p>I'm in the midst of making a pivotal decision between several prestigious programs: Penn's Masters in AI, and Georgia Tech's Comp/Sci-ML. Each program offers a unique perspective on AI/ML, and I'm excited to embark on this next educational chapter post-Marine Corps, where discipline and determination were my key takeaways.</p>
 
 <h3 align="left">📚 What I'm Reading:</h3>
 <p>I'm currently engrossed in "THE CREATIVE ACT: A Way of being By Rick Rubin".</p>
