@@ -1,28 +1,26 @@
-<h1 align="center">✨ Hey there, Nerds! I'm Shane Cupid - navigating the grand adventure called "Life" in this Tech Renaissance 🛸</h1>
-<h3 align="center">On a Quest into the AI/ML Universe 🌱🌍</h3>
+<h1 align="center">✨ Greetings, Nerds! I’m Shane Cupid, traversing the intriguing maze we dub "Life", amidst a Technological Renaissance 🛸</h1>
+<h3 align="center">Charting my AI/ML Odyssey 🌱🌍</h3>
 
-<h4 align="left">🎓 Quick Edu Facts:</h4>
-<p>I'm at Penn State diving deep into AI with a keen eye on NLP and AI development. Alongside, I'm consulting small companies, sprinkling a little DSaaS magic to fuel their growth with data-driven insights.</p>
+<h4 align="left">🎓 Edu Snapshot:</h4>
+<p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small companies with DSaaS to unlock their data potential.</p>
 
-<h4 align="left">📚 Current Read:</h4>
-<p>Lost in "THE CREATIVE ACT: A Way of Being" by Rick Rubin.</p>
+<h4 align="left">📚 What else is catching my interest?:</h4>
+<p>Engulfed in "The Emerald Tablets" 🟩🧩 </p>
 
-<h4 align="left">📺 Watchlist:</h4>
-<p>I geek out on <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a> and friends. Check 'em out for a blend of tech, culture, and insight!</p>
+<h3 align="left">📺 YouTube Channels I Value:</h3>
+<p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
 
-<h4 align="left">🎯 On the Horizon:</h4>
-<p>Dreaming of becoming a Machine Learning Engineer. Just imagine the possibilities in tech!</p>
+<h4 align="left">🎯 Future Me:</h4>
+<p>Channeling my inner visionary to morph into a Machine Learning Engineer within the next 2-3 years. The tech future is ripe with opportunity!</p>
 
-<h4 align="left">🛠 Cool Stuff I've Done:</h4>
-<p>From Power BI magic for an e-commerce gem to creating chatbots and recommendation systems, I’m all in on making data dance.</p>
+<h4 align="left">🛠 Project Highlights:</h4>
+<p>My toolkit? Power BI for visual storytelling, from enhancing e-commerce analytics to crafting prediction models. Currently, I’m diving into recommendation systems and advanced Python, aiming to make data insightful and actionable.</p>
 
-<p>🔭 Working on: Understanding the magic behind recommendation systems and how they tailor our digital experiences.</p>
+<p>🔭 Passion Projects: Creating a YouTube content-driven chatbot, and unraveling the complexities behind recommendation systems that shape our digital experiences.</p>
 
-<p>🌱 Growing my brain in: Advanced Python and machine learning, turning data into decisions.</p>
+<p>🌱 Skills in Progress: Levelling up in advanced Python, machine learning, and eagerly exploring the intersection of AI with real-world applications.</p>
 
-<p>🤖 Fun creation: A chatbot for YouTube content enthusiasts. Who says AI can’t be your friendly neighborhood bot?</p>
-
-<p>👀 Looking ahead: Eager to sprinkle my AI skills across fintech to healthcare, aiming to be a Machine Learning Engineer wizard in 2-3 years. Here’s to pushing boundaries and solving the unsolvable!</p>
+<p>👀 Vision: You know.. I just want to build cool, impactful, tech </p>
 
 - 💬 Curious about the impact of Generative AI? **Let's talk about how it's transforming industries with innovative solutions. Discuss with me the art of building scalable, efficient ML models poised to tackle complex challenges and drive technological advancement. My focus is on harnessing the power of AI to revolutionize the way we approach problems and create opportunities.**
 
