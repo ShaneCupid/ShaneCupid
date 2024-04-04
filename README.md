@@ -2,7 +2,9 @@
 <h3 align="center">Embarking on a Journey into AI/ML 🌱🌍</h3>
 
 <h3 align="left">🎓 Educational Pursuits:</h3>
-<p>I'm in the midst of making a pivotal decision between several prestigious programs: Penn's Masters in AI, and Georgia Tech's Comp/Sci-ML. Each program offers a unique perspective on AI/ML, and I'm excited to embark on this next educational chapter post-Marine Corps, where discipline and determination were my key takeaways.</p>
+<p>Having chosen to advance my journey in artificial intelligence, I am currently enrolled in Penn State's MPS in Artificial Intelligence, a program renowned for its comprehensive curriculum and focus on real-world applications. This decision marks a significant step in my post-Marine Corps career, where discipline and determination continue to guide my path.</p>
+
+<p>As I deepen my expertise in AI, I am particularly drawn to the fields of Natural Language Processing (NLP) and AI development, seeking innovative ways to apply these technologies. Concurrently, I am exploring opportunities to collaborate with small companies, offering data science consulting services or Data Science as a Service (DSaaS). My goal is to empower these businesses with the transformative potential of AI, driving growth and innovation through data-driven strategies.</p>
 
 <h3 align="left">📚 What I'm Reading:</h3>
 <p>I'm currently engrossed in "THE CREATIVE ACT: A Way of being By Rick Rubin".</p>
@@ -11,10 +13,12 @@
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
 
 <h3 align="left">🎯 My Goals:</h3>
-<p> I'm considering offers from prestigious institutions like Texas Tech, Penn, and Georgia Tech for programs in Applied Data Science, AI, and ML. My ambition is to leverage this advanced education to innovate and collaborate on AI/ML projects that tackle real-world challenges, merging my military and business background with cutting-edge technology.</p>
+<p> Working towards becoming a Machine Learning Engineer ~ To be a key role player in this new age of technology </p>
 
 <h3 align="left">🛠 Recent Projects:</h3>
-<p>As a data analyst transitioning into a Data Scientist role, I have recently engaged in various projects that showcase my growing expertise. My portfolio includes a predictive model for hospital length of stay, a sales forecast for BigMart outlets, and a network analysis of the "Game of Thrones" series—all developed using advanced data science techniques and machine learning algorithms. These projects are part of my coursework from the MIT Applied Data Science Program, where I'm honing my skills in Python, machine learning, and data visualization.</p>
+<p>In my evolution from a Data Analyst towards a more specialized Data Science role, I have expanded my portfolio through practical, impactful projects. This includes leveraging Power BI as the visualization tool of choice for diverse initiatives, ranging from predictive models for hospital lengths of stay to sales forecasts for e-commerce platforms. My work with a burgeoning e-commerce company, offering Data Science as a Service (DSaaS), stands out as a testament to my applied skills in real-world scenarios.</p>
+
+<p>Currently, I am focusing on sharpening my expertise in Power BI, with the aim to obtain certification soon. These efforts are part of my broader commitment to mastering advanced data analytics tools and techniques. My projects, significant for both their variety and depth, underscore my practical application of the knowledge gained from Penn State's MPS in Artificial Intelligence and my ongoing professional development in data science and visualization.</p>
 
 - 🔭 I’m currently working on **Recommendation Systems, a fascinating area in AI that intersects with our digital lives daily. My coursework covers a spectrum of topics from the basics of recommendation algorithms to advanced concepts like Matrix Factorization and Neural Networks for personalized suggestions. I’m exploring how these systems differ from traditional predictive models and learning to apply sophisticated algorithms for more accurate and user-centric recommendations.**
 
@@ -22,7 +26,7 @@
 
 - 🤖 Among my innovative creations is **a chatbot tailored to YouTube content using Langchain, highlighting my versatility in handling various types of data and my passion for bringing AI closer to everyday experiences.**
 
-- 👀 Looking ahead, **I'm eager to leverage my data science expertise across various industries. My skill set in machine learning and analytics is versatile, capable of unlocking insights and driving innovation in fields like real estate, stock trading, and even the health sector. However, my passion for data knows no bounds. Whether it's forecasting market trends, enhancing customer experiences, or contributing to cutting-edge health technologies, I'm committed to applying my knowledge to solve complex challenges in any domain.**
+- 👀 As I look forward, my ambition is to apply my burgeoning expertise in data science and artificial intelligence across a diverse array of sectors. With a solid foundation in machine learning, analytics, and a growing proficiency in Natural Language Processing (NLP), I am uniquely positioned to unearth critical insights and foster innovation in areas as varied as fintech, healthcare, and digital commerce. My enthusiasm for data transcends traditional boundaries. From predicting financial market shifts to revolutionizing patient care with AI-driven diagnostics or optimizing e-commerce strategies, my goal remains steadfast. In the next 2-3 years, I aim to transition into a role as a Machine Learning Engineer, deepening my technical expertise and leading projects that push the boundaries of what AI can achieve in real-world applications.**
 
 - 💬 Curious about the impact of Generative AI? **Let's talk about how it's transforming industries with innovative solutions. Discuss with me the art of building scalable, efficient ML models poised to tackle complex challenges and drive technological advancement. My focus is on harnessing the power of AI to revolutionize the way we approach problems and create opportunities.**
 
