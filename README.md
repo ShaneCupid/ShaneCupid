@@ -14,7 +14,7 @@
 <p>Channeling my inner visionary to morph into a Machine Learning Engineer within the next 2-3 years. The tech future is ripe with opportunity!</p>
 
 <h4 align="left">🛠 Project Highlights:</h4>
-<p>My toolkit? Power BI for visual storytelling, from enhancing e-commerce analytics to crafting prediction models. Currently, I’m diving into recommendation systems and advanced Python, aiming to make data insightful and actionable.</p>
+<p>Honing my Power BI skills through hands-on side projects, I'm not just telling stories with data but shaping them. I've partnered with <a href="https://rhinobrand.com" target="_blank">Rhino Brand</a>, applying ML analytics and developing AI tools to elevate their e-commerce strategy. It's a blend of art and science—using advanced Python and machine learning to transform data into decisions that drive business growth.</p>
 
 <p>🔭 Passion Projects: Creating a YouTube content-driven chatbot, and unraveling the complexities behind recommendation systems that shape our digital experiences.</p>
 
