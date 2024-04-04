@@ -2,7 +2,7 @@
 <h3 align="center">Embarking on a Journey into AI/ML 🌱🌍</h3>
 
 <h3 align="left">🎓 Educational Pursuits:</h3>
-<p>Having chosen to advance my journey in artificial intelligence, I am currently enrolled in Penn State's MPS in Artificial Intelligence, a program renowned for its comprehensive curriculum and focus on real-world applications. This decision marks a significant step in my post-Marine Corps career, where discipline and determination continue to guide my path.</p>
+<p>Having chosen to advance my journey in artificial intelligence, I am currently enrolled in Penn State's MPS in Artificial Intelligence, a program renowned for its comprehensive curriculum and focus on real-world applications. This is the next step forward for me to continue building upon the skills I have developed during my Applied Data Science Program at MIT.</p>
 
 <p>As I deepen my expertise in AI, I am particularly drawn to the fields of Natural Language Processing (NLP) and AI development, seeking innovative ways to apply these technologies. Concurrently, I am exploring opportunities to collaborate with small companies, offering data science consulting services or Data Science as a Service (DSaaS). My goal is to empower these businesses with the transformative potential of AI, driving growth and innovation through data-driven strategies.</p>
 
