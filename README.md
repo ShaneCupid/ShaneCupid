@@ -1,4 +1,4 @@
-<h1 align="center">✨ Greetings, Nerds! I’m Shane Cupid, traversing the intriguing maze we dub "Life", amidst a Technological Renaissance 🛸</h1>
+<h1 align="center">✨ Greetings, I’m Shane Cupid, Welcome to my Page 🛸</h1>
 <h3 align="center">Charting my AI/ML Odyssey 🌱🌍</h3>
 
 <h4 align="left">🎓 Edu Snapshot:</h4>
