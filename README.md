@@ -18,7 +18,7 @@
 
 <p>🔭 Passion Projects: Streamlining real estate workflows, developing automated lead generation systems, and optimizing property acquisition processes through innovative tech solutions.</p>
 
-<p>🌱 Skills in Progress: Levelling up in advanced automation, real estate systems integration, and eagerly exploring the intersection of AI with real-world applications in real estate.</p>
+<p>🌱 Skills in Progress: Leveling up in advanced automation, real estate systems integration, and eagerly exploring the intersection of AI with real-world applications in real estate.</p>
 
 <p>👀 Vision: You know... I just want to build cool, impactful, tech-driven solutions for the real estate industry, helping sellers reach their goals efficiently and effectively.</p>
 
