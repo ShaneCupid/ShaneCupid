@@ -14,11 +14,16 @@
 <p>Channeling my inner visionary to morph into a Machine Learning Engineer within the next 2-3 years. The tech future is ripe with opportunity!</p>
 
 <h4 align="left">🛠 Project Highlights:</h4>
-<p>Honing my Power BI skills through hands-on side projects, I'm not just telling stories with data but shaping them. I've partnered with <a href="https://rhinobrand.com" target="_blank">Rhino Brand</a>, applying ML analytics and developing AI tools to elevate their e-commerce strategy. It's a blend of art and science—using advanced Python and machine learning to transform data into decisions that drive business growth.</p>
+<p>Honing my skills in real estate automation and systems engineering, I'm not just telling stories with data but shaping them. I've partnered with <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>, applying automation and developing AI tools to elevate our real estate investment strategy. It's a blend of art and science—using advanced technologies and automation to transform data into decisions that drive business growth.</p>
 
-<p>🔭 Passion Projects: Creating a YouTube content-driven chatbot, and unraveling the complexities behind recommendation systems that shape our digital experiences.</p>
+<p>🔭 Passion Projects: Streamlining real estate workflows, developing automated lead generation systems, and optimizing property acquisition processes through innovative tech solutions.</p>
 
-<p>🌱 Skills in Progress: Levelling up in advanced Python, machine learning, and eagerly exploring the intersection of AI with real-world applications.</p>
+<p>🌱 Skills in Progress: Levelling up in advanced automation, real estate systems integration, and eagerly exploring the intersection of AI with real-world applications in real estate.</p>
+
+<p>👀 Vision: You know... I just want to build cool, impactful, tech-driven solutions for the real estate industry, helping sellers reach their goals efficiently and effectively.</p>
+
+<h4 align="left">🏠 About Maxpeak Home Solutions:</h4>
+<p>At Maxpeak Home Solutions, we specialize in real estate investment and consulting. Our mission is to help sellers achieve their goals by providing tailored solutions that maximize property value and expedite transactions. Whether you're looking to sell quickly, find the best market opportunities, or streamline your investment portfolio, we have the expertise and technology to support your journey. Visit our website to learn more about how we can assist you: <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>.</p>
 
 <p>👀 Vision: You know.. I just want to build cool, impactful, tech </p>
 
