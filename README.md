@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello 🛸</h1>
+<h1 align="center">✨ Welcome to my page 🛸</h1>
 <h3 align="center">Charting my AI/ML Odyssey 🌱🌍</h3>
 
 <h4 align="left">🎓 Education Snapshot:</h4>
