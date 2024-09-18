@@ -1,4 +1,4 @@
-<h1 align="center">✨ Greetings, I’m Shane Cupid, Welcome to my Page 🛸</h1>
+<h1 align="center">✨ Hello 🛸</h1>
 <h3 align="center">Charting my AI/ML Odyssey 🌱🌍</h3>
 
 <h4 align="left">🎓 Education Snapshot:</h4>
@@ -12,7 +12,9 @@
 </ul>
 
 <h4 align="left">📚 What else is catching my interest?:</h4>
-<p>Engulfed in "The Emerald Tablets" 🟩🧩 </p>
+<p>Engulfed in creative finance strategies in residential and commercial real estate</p>
+<p>How I can use my developing Data Science skills to improve business processes and my invstment strategies</p>
+<p>Pace Morby</p>
 
 <h3 align="left">📺 YouTube Channels I Value:</h3>
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
