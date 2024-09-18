@@ -47,13 +47,10 @@
 <h4 align="left">🏠 About Maxpeak Home Solutions:</h4>
 <p>At Maxpeak Home Solutions, we specialize in real estate investment and consulting. Our mission is to help sellers achieve their goals by providing tailored solutions that maximize property value and expedite transactions. Whether you're looking to sell quickly, find the best market opportunities, or streamline your investment portfolio, we have the expertise and technology to support your journey. Visit our website to learn more about how we can assist you: <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>.</p>
 
-<p>👀 Vision: You know.. I just want to build cool, impactful, tech </p>
-
 - 💬 Curious about the impact of Generative AI? **Let's talk about how it's transforming industries with innovative solutions. Discuss with me the art of building scalable, efficient ML models poised to tackle complex challenges and drive technological advancement. My focus is on harnessing the power of AI to revolutionize the way we approach problems and create opportunities.**
 
 - 📫 How to reach me **cupidconsultingllc@gmail.com**
 - Dealing with a distressed situation or want to sell your home or business ? Reach me at **shane@maxpeakhomesolutions.com**
-
 
 - ⚡ More about me **Passionate about soccer, family, financial freedom and innovative solutions that benefit humanity.**
 
