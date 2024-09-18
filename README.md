@@ -1,8 +1,15 @@
 <h1 align="center">✨ Greetings, I’m Shane Cupid, Welcome to my Page 🛸</h1>
 <h3 align="center">Charting my AI/ML Odyssey 🌱🌍</h3>
 
-<h4 align="left">🎓 Edu Snapshot:</h4>
-<p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small companies with DSaaS to unlock their data potential.</p>
+<h4 align="left">🎓 Education Snapshot:</h4>
+<p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small companies with DSaaS (Data Science as a Service) to unlock their data potential.</p>
+
+<p>Currently delving deep into courses on <strong>AI Ethics</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>:</p>
+<ul>
+  <li><strong>AI Ethics:</strong> Exploring the societal impacts of AI, focusing on responsible AI development, bias mitigation, and ethical decision-making in AI systems.</li>
+  <li><strong>Deep Learning:</strong> Mastering neural network architectures, including CNNs and RNNs, and applying them to complex data problems.</li>
+  <li><strong>Computer Vision:</strong> Learning to extract meaningful information from visual data, working with image processing techniques, and implementing object detection and recognition models.</li>
+</ul>
 
 <h4 align="left">📚 What else is catching my interest?:</h4>
 <p>Engulfed in "The Emerald Tablets" 🟩🧩 </p>
@@ -11,16 +18,29 @@
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
 
 <h4 align="left">🎯 Future Me:</h4>
-<p>Channeling my inner visionary to morph into a Machine Learning Engineer within the next 2-3 years. The tech future is ripe with opportunity!</p>
+<p>The tech future is ripe with opportunity! I'm currently building automation tools for real estate investors and exploring the convergence between AI and precision medicine. I'm passionate about leveraging AI to create impactful solutions in healthcare and government sectors, especially in simulation models and aerospace. My goal is to enhance interoperability within DoD systems, modernizing outdated infrastructures reliant on legacy technologies.</p>
 
 <h4 align="left">🛠 Project Highlights:</h4>
 <p>Honing my skills in real estate automation and systems engineering, I'm not just telling stories with data but shaping them. I've partnered with <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>, applying automation and developing AI tools to elevate our real estate investment strategy. It's a blend of art and science—using advanced technologies and automation to transform data into decisions that drive business growth.</p>
 
-<p>🔭 Passion Projects: Streamlining real estate workflows, developing automated lead generation systems, and optimizing property acquisition processes through innovative tech solutions.</p>
+<p>🔭 <strong>Passion Projects:</strong></p>
+<ul>
+  <li>Streamlining real estate workflows and developing automated lead generation systems.</li>
+  <li>Optimizing property acquisition processes through innovative tech solutions.</li>
+  <li>Building intelligent agents and machine learning models for simulation and predictive analytics in healthcare and aerospace.</li>
+  <li>Exploring AI applications in precision medicine to advance personalized healthcare solutions.</li>
+</ul>
 
-<p>🌱 Skills in Progress: Leveling up in advanced automation, real estate systems integration, and eagerly exploring the intersection of AI with real-world applications in real estate.</p>
 
-<p>👀 Vision: You know... I just want to build cool, impactful, tech-driven solutions for the real estate industry, helping sellers reach their goals efficiently and effectively.</p>
+<p>🌱 <strong>Skills in Progress:</strong></p>
+<ul>
+  <li>Leveling up in advanced automation and creative financing strategies.</li>
+  <li>Enhancing knowledge in AI ethics to ensure responsible and fair AI deployments.</li>
+  <li>Diving deep into deep learning architectures and computer vision techniques.</li>
+  <li>Exploring data interoperability solutions for government systems and modernizing legacy technologies.</li>
+</ul>
+
+<p>👀 Vision: You know... I just want to build cool, impactful, tech-driven solutions for businesses and entrepenuers, helping sellers reach their goals efficiently and effectively.</p>
 
 <h4 align="left">🏠 About Maxpeak Home Solutions:</h4>
 <p>At Maxpeak Home Solutions, we specialize in real estate investment and consulting. Our mission is to help sellers achieve their goals by providing tailored solutions that maximize property value and expedite transactions. Whether you're looking to sell quickly, find the best market opportunities, or streamline your investment portfolio, we have the expertise and technology to support your journey. Visit our website to learn more about how we can assist you: <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>.</p>
@@ -30,6 +50,8 @@
 - 💬 Curious about the impact of Generative AI? **Let's talk about how it's transforming industries with innovative solutions. Discuss with me the art of building scalable, efficient ML models poised to tackle complex challenges and drive technological advancement. My focus is on harnessing the power of AI to revolutionize the way we approach problems and create opportunities.**
 
 - 📫 How to reach me **cupidconsultingllc@gmail.com**
+- Dealing with a distressed situation or want to sell your home or business ? Reach me at **shane@maxpeakhomesolutions.com**
+
 
 - ⚡ More about me **Passionate about soccer, family, financial freedom and innovative solutions that benefit humanity.**
 
