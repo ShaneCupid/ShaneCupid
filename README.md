@@ -11,7 +11,7 @@
   <li><strong>Computer Vision:</strong> Learning to extract meaningful information from visual data, working with image processing techniques, and implementing object detection and recognition models.</li>
 </ul>
 
-<h4 align="left">📚 What else is catching my interest?:</h4>
+<h4 align="left">📚 What else is catching my interest? </h4>
 <p>Engulfed in creative finance strategies in residential and commercial real estate</p>
 <p>How I can use my developing Data Science skills to improve business processes and my invstment strategies</p>
 <p>Pace Morby</p>
