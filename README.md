@@ -4,7 +4,7 @@
 <h4 align="left">🎓 Education Snapshot:</h4>
 <p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small real estate entrepreneurs with AI integration into their existing workflows.</p>
 
-<p>Currently delving deep into courses on <strong>AI Ethics</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>:</p>
+<p>Whats on my plate this semester? <strong>AI Ethics</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>:</p>
 <ul>
   <li><strong>AI Ethics:</strong> Exploring the societal impacts of AI, focusing on responsible AI development, bias mitigation, and ethical decision-making in AI systems.</li>
   <li><strong>Deep Learning:</strong> Mastering neural network architectures, including CNNs and RNNs, and applying them to complex data problems.</li>
