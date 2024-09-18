@@ -2,7 +2,7 @@
 <h3 align="center">Charting my AI/ML Odyssey 🌱🌍</h3>
 
 <h4 align="left">🎓 Education Snapshot:</h4>
-<p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small companies with DSaaS (Data Science as a Service) to unlock their data potential.</p>
+<p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small real estate entrepreneurs with AI integration into their existing workflows.</p>
 
 <p>Currently delving deep into courses on <strong>AI Ethics</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>:</p>
 <ul>
