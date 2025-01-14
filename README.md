@@ -4,17 +4,18 @@
 <h4 align="left">🎓 Education Snapshot:</h4>
 <p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small real estate entrepreneurs with AI integration into their existing workflows.</p>
 
-<p>Whats on my plate this semester? <strong>AI Ethics</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>:</p>
+<p>What's on my plate this semester? <strong>Natural Language Processing</strong>, <strong>Analytical Programming in Python</strong>, and <strong>Data Visualization</strong>:</p>
 <ul>
-  <li><strong>AI Ethics:</strong> Exploring the societal impacts of AI, focusing on responsible AI development, bias mitigation, and ethical decision-making in AI systems.</li>
-  <li><strong>Deep Learning:</strong> Mastering neural network architectures, including CNNs and RNNs, and applying them to complex data problems.</li>
-  <li><strong>Computer Vision:</strong> Learning to extract meaningful information from visual data, working with image processing techniques, and implementing object detection and recognition models.</li>
+  <li><strong>Natural Language Processing:</strong> Exploring statistical NLP with a focus on representation learning and deep neural networks to build end-to-end systems for tasks like question answering, language modeling, and dialogue systems. Hands-on projects using Keras, TensorFlow, and NLTK bring these concepts to life.</li>
+  <li><strong>Analytical Programming in Python:</strong> Developing analytics systems by applying software design principles and Python toolkits. The course covers techniques in data manipulation, visualization, machine learning, text analysis, and social network analysis to gain insights from complex data sets.</li>
+  <li><strong>Data Visualization:</strong> Learning to map complex, abstract information into physical representations to uncover insights from large data sets. The course emphasizes strategies for effective visualization to support knowledge discovery and decision-making processes.</li>
 </ul>
 
 <h4 align="left">📚 What else is catching my interest? </h4>
-<p>Engulfed in creative finance strategies in residential and commercial real estate</p>
-<p>How I can use my developing Data Science skills to improve business processes and my invstment strategies</p>
-<p>Pace Morby</p>
+<p>Exploring innovative creative finance strategies in both residential and commercial real estate to maximize opportunities and outcomes.</p>
+<p>Leveraging my growing expertise in Data Science/Engineering to streamline business processes and enhance my investment strategies.</p>
+<p>Developing systems and automation solutions for MaxPeak Home Solutions where I serve as the Tech Lead and COO. I bring a blend of technical expertise and leadership to implement cutting-edge technologies, optimize workflows, and drive operational excellence.</p>
+<p>Inspired by leaders like Pace Morby and continuously learning to push boundaries in creative finance and technology integration.</p>
 
 <h3 align="left">📺 YouTube Channels I Value:</h3>
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
@@ -23,26 +24,26 @@
 <p>The tech future is ripe with opportunity! I'm currently building automation tools for real estate investors and exploring the convergence between AI and precision medicine. I'm passionate about leveraging AI to create impactful solutions in healthcare and government sectors, especially in simulation models and aerospace. My goal is to enhance interoperability within DoD systems, modernizing outdated infrastructures reliant on legacy technologies.</p>
 
 <h4 align="left">🛠 Project Highlights:</h4>
-<p>Honing my skills in real estate automation and systems engineering, I'm not just telling stories with data but shaping them. I've partnered with <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>, applying automation and developing AI tools to elevate our real estate investment strategy. It's a blend of art and science—using advanced technologies and automation to transform data into decisions that drive business growth.</p>
+<p>With a deep interest in applying AI to solve real-world challenges, I’ve been honing my skills in automation, systems engineering, and machine learning to drive meaningful impact across diverse industries. My work blends innovation and strategy, leveraging advanced technologies to optimize processes and foster collaboration.</p>
 
 <p>🔭 <strong>Passion Projects:</strong></p>
 <ul>
-  <li>Streamlining real estate workflows and developing automated lead generation systems.</li>
-  <li>Optimizing property acquisition processes through innovative tech solutions.</li>
-  <li>Building intelligent agents and machine learning models for simulation and predictive analytics in healthcare and aerospace.</li>
-  <li>Exploring AI applications in precision medicine to advance personalized healthcare solutions.</li>
+  <li>Exploring AI applications in <strong>optometry</strong>, where computer vision is at the forefront of advancements in diagnosing and managing ocular conditions. I am actively seeking opportunities to collaborate with professors, doctors, and researchers in this field to further my knowledge and contribute to impactful research.</li>
+  <li>Harnessing the power of AI in <strong>precision medicine</strong> to advance personalized healthcare solutions, focusing on integrating patient data with predictive analytics to improve outcomes.</li>
+  <li>Developing intelligent agents and machine learning models for simulation, predictive analytics, and decision-making in healthcare and aerospace domains.</li>
+  <li>Building automated lead generation systems and streamlining workflows in real estate, including creating data-driven tools for enhanced property acquisition and management processes.</li>
 </ul>
-
 
 <p>🌱 <strong>Skills in Progress:</strong></p>
 <ul>
-  <li>Leveling up in advanced automation and creative financing strategies.</li>
-  <li>Enhancing knowledge in AI ethics to ensure responsible and fair AI deployments.</li>
-  <li>Diving deep into deep learning architectures and computer vision techniques.</li>
-  <li>Exploring data interoperability solutions for government systems and modernizing legacy technologies.</li>
+  <li>Advancing expertise in automation and creative financing strategies to optimize real estate investment workflows and enhance business outcomes.</li>
+  <li>Expanding proficiency in AI ethics to ensure responsible, equitable, and impactful AI applications across industries.</li>
+  <li>Delving deeper into deep learning architectures and computer vision techniques, with a focus on applications in healthcare, optometry, and real estate analytics.</li>
+  <li>Building expertise in data engineering by developing AI tracking systems to streamline data interoperability, modernize legacy systems, and enable real-time insights.</li>
+  <li>Strengthening skills in data visualization and analytical programming to uncover patterns, communicate insights effectively, and drive informed decision-making in diverse domains.</li>
 </ul>
 
-<p>👀 Vision: You know... I just want to build cool, impactful, tech-driven solutions for businesses and entrepenuers, helping sellers reach their goals efficiently and effectively.</p>
+<p>👀 <strong>Vision:</strong> To create groundbreaking, tech-driven solutions that revolutionize industries and empower businesses to surpass their goals. My journey is fueled by a relentless pursuit of innovation, a passion for problem-solving, and a commitment to leaving a legacy that inspires future generations of entrepreneurs and creators.</p>
 
 <h4 align="left">🏠 About Maxpeak Home Solutions:</h4>
 <p>At Maxpeak Home Solutions, we specialize in real estate investment and consulting. Our mission is to help sellers achieve their goals by providing tailored solutions that maximize property value and expedite transactions. Whether you're looking to sell quickly, find the best market opportunities, or streamline your investment portfolio, we have the expertise and technology to support your journey. Visit our website to learn more about how we can assist you: <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>.</p>
