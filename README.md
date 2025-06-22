@@ -18,9 +18,11 @@
 <p>Inspired by visionary operators like Pace Morby—my work goes beyond tactics to build enduring systems that support ethical, scalable real estate outcomes.</p>
 
 <h4 align="left">🎯 Future Me:</h4>
-<p>My vision is rooted in building AI systems that serve people—not just scale. I'm focused on creating tools that reduce friction in critical life pathways, especially for underserved families navigating housing, healthcare, and public services.</p>
-<p>Beyond venture-backed trends, I see massive opportunity in rethinking how we deliver social infrastructure using real-time, contextual AI. Whether it's matching families to housing programs or helping patients understand clinical trials, I build for impact, not just innovation.</p>
-<p>Long term, I aim to modernize interoperability within DoD and civilian systems—turning legacy bottlenecks into intelligent pipelines that inform, protect, and empower.</p>
+<p>I’m focused on building contextual AI systems that serve people navigating real-world challenges—whether that’s a family searching for housing, a caseworker managing social services, or a patient trying to access a clinical trial.</p>
+
+<p>My work bridges data engineering, LLM-powered assistants, and real-time automation to create high-impact tools that reduce complexity and restore agency. I believe the next generation of infrastructure—public and private—will be powered by intelligent systems designed for equity, not just efficiency.</p>
+
+<p>Looking ahead, I’m committed to modernizing how information flows across institutions like the DoD, healthcare systems, and housing agencies. That means replacing fragmented, legacy processes with transparent, ethical, and interoperable AI frameworks that scale.</p>
 
 <h4 align="left">🛠 Project Highlights:</h4>
 <p>From government systems to grassroots real estate, I apply AI where complexity meets human need. My approach blends automation, decision intelligence, and user-first design to create high-leverage tools that solve real problems.</p>
@@ -32,19 +34,20 @@
 
 <h4 align="left">🔭 Passion Projects:</h4>
 <ul>
-  <li>Using AI to improve social equity—whether through housing access, health literacy, or service navigation.</li>
-  <li>Applying contextual AI to clinical research and health outreach, helping patients overcome complex eligibility and documentation barriers.</li>
-  <li>Designing intelligent agents for scenario simulation, resource planning, and decision support in aerospace and government sectors.</li>
-  <li>Building a portfolio of proprietary tools for real estate professionals—especially in markets underserved by traditional tech platforms.</li>
+  <li>Building AI tools that help families access housing and support services through intelligent guidance and document-aware assistants.</li>
+  <li>Improving access to clinical trials with NLP-powered chatbots that simplify eligibility and support patient decision-making.</li>
+  <li>Designing autonomous real estate acquisition systems that turn raw data into actionable insights for creative deal structuring.</li>
+  <li>Developing applied AI agents for decision support in public sector and defense workflows.</li>
+  <li>Championing ethical AI design in high-impact, real-world applications.</li>
 </ul>
 
 <h4 align="left">🧠 Capabilities Under Development:</h4>
 <ul>
-  <li>Creating low-latency AI systems from scratch using modular JavaScript frameworks, with planned migration to Python pipelines backed by vectorized retrieval and contextual memory.</li>
-  <li>Expanding expertise in creative financing strategies and automating underwriting logic for real estate investments.</li>
-  <li>Integrating ethical AI principles into high-impact applications for housing, healthcare, and case management.</li>
-  <li>Advancing reinforcement learning and predictive modeling skills to support adaptive systems in real-time decision environments.</li>
-  <li>Building production-level data infrastructure that modernizes how legacy institutions share and act on insight.</li>
+  <li>Engineering full-stack AI apps using Node.js frontends with Python-based RAG pipelines and persistent memory.</li>
+  <li>Automating creative finance workflows for lead evaluation, seller communication, and real estate underwriting.</li>
+  <li>Fine-tuning healthcare NLP models for summarization and patient-level personalization.</li>
+  <li>Modernizing government systems through AI-powered data processing and workflow automation.</li>
+  <li>Embedding fairness, transparency, and trust into AI systems for public use.</li>
 </ul>
 
 <h4 align="left">👀 Vision:</h4>
