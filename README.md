@@ -1,35 +1,29 @@
-<h1 align="center">🛠️ Architecting Human-Centered Systems with Applied AI 🤖</h1>
-<h3 align="center">🌍 Charting a Path Where Data Meets Human Impact 🚀 </h3>
+<h1 align="center">🔧✨ Architecting Human-Centered Systems with Applied AI 🌍🤖</h1>
+<h3 align="center">📊🧠 Charting a Path Where Data Meets Human Impact 🚀💡</h3>
 
 <h4 align="left">🎓 Education Snapshot:</h4>
-<p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small real estate entrepreneurs with AI integration into their existing workflows.</p>
+<p>Currently completing my final semester in Penn State's MPS in Artificial Intelligence. Alongside academic rigor, I architect AI systems that bridge data, policy, and lived experience—empowering real-world users and organizations alike.</p>
 
-<p>What's on my plate this semester? <strong>Natural Language Processing</strong>, <strong>Analytical Programming in Python</strong>, and <strong>Data Visualization</strong>:</p>
+<p>What’s on my plate this semester? <strong>Reinforcement Learning</strong>, <strong>Predictive Analytics</strong>, and <strong>Capstone Research</strong>:</p>
 <ul>
-  <li><strong>Natural Language Processing:</strong> Exploring statistical NLP with a focus on representation learning and deep neural networks to build end-to-end systems for tasks like question answering, language modeling, and dialogue systems. Hands-on projects using Keras, TensorFlow, and NLTK bring these concepts to life.</li>
-  <li><strong>Analytical Programming in Python:</strong> Developing analytics systems by applying software design principles and Python toolkits. The course covers techniques in data manipulation, visualization, machine learning, text analysis, and social network analysis to gain insights from complex data sets.</li>
-  <li><strong>Data Visualization:</strong> Learning to map complex, abstract information into physical representations to uncover insights from large data sets. The course emphasizes strategies for effective visualization to support knowledge discovery and decision-making processes.</li>
+  <li><strong>Reinforcement Learning:</strong> Building agents that learn from interaction, optimize decision-making over time, and adapt within high-stakes environments.</li>
+  <li><strong>Predictive Analytics:</strong> Developing forecasting models to surface insights from high-dimensional, real-world datasets—informing action in domains like healthcare and housing.</li>
+  <li><strong>Capstone Project:</strong> Creating a next-generation clinical trial navigator that pairs patients with eligible trials and explains complex medical content using contextual AI. Designed to reduce barriers to research access and support provider communication.</li>
 </ul>
 
-<h4 align="left">📚 What else is catching my interest? </h4>
-<p>Exploring innovative creative finance strategies in both residential and commercial real estate to maximize opportunities and outcomes.</p>
-<p>Leveraging my growing expertise in Data Science/Engineering to streamline business processes and enhance my investment strategies.</p>
-<p>Developing systems and automation solutions for MaxPeak Home Solutions where I serve as the Tech Lead and COO. I bring a blend of technical expertise and leadership to implement cutting-edge technologies, optimize workflows, and drive operational excellence.</p>
-<p>Inspired by leaders like Pace Morby and continuously learning to push boundaries in creative finance and technology integration.</p>
-
-<h3 align="left">📺 YouTube Channels I Value:</h3>
-<p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
+<h4 align="left">📚 What else is catching my interest?</h4>
+<p>Innovating at the intersection of AI and public infrastructure, with a specific focus on underserved families, social equity, and housing access.</p>
+<p>Scaling automation and decision-support tools for real estate entrepreneurs through proprietary frameworks that reflect deep domain expertise in creative finance.</p>
+<p>Leading tech innovation at MaxPeak Home Solutions, where we’re redefining what’s possible in real estate acquisition using intelligent systems, strategic outreach, and non-traditional capital structures.</p>
+<p>Inspired by visionary operators like Pace Morby—my work goes beyond tactics to build enduring systems that support ethical, scalable real estate outcomes.</p>
 
 <h4 align="left">🎯 Future Me:</h4>
 <p>My vision is rooted in building AI systems that serve people—not just scale. I'm focused on creating tools that reduce friction in critical life pathways, especially for underserved families navigating housing, healthcare, and public services.</p>
-
 <p>Beyond venture-backed trends, I see massive opportunity in rethinking how we deliver social infrastructure using real-time, contextual AI. Whether it's matching families to housing programs or helping patients understand clinical trials, I build for impact, not just innovation.</p>
-
 <p>Long term, I aim to modernize interoperability within DoD and civilian systems—turning legacy bottlenecks into intelligent pipelines that inform, protect, and empower.</p>
 
 <h4 align="left">🛠 Project Highlights:</h4>
 <p>From government systems to grassroots real estate, I apply AI where complexity meets human need. My approach blends automation, decision intelligence, and user-first design to create high-leverage tools that solve real problems.</p>
-
 <ul>
   <li><strong>AI Pathway Navigator:</strong> A guided decision platform helping families in crisis navigate housing, benefits, and services. Combines dynamic form logic, document intelligence, and contextual LLMs to support both families and caseworkers in real time.</li>
   <li><strong>Clinical Trial AI Assistant:</strong> My graduate capstone project—a retrieval-augmented chatbot that helps patients and providers identify trial eligibility, understand medical jargon, and improve access to research.</li>
@@ -56,29 +50,36 @@
 <h4 align="left">👀 Vision:</h4>
 <p>To architect AI systems that are resilient, equitable, and scalable—bridging gaps between people and the services they need. I believe technology should not just optimize processes, but uplift lives. My legacy will be in building platforms that bring transparency, choice, and empowerment to the edges of society where it's most needed.</p>
 
-<h4 align="left">🏠 About Maxpeak Home Solutions:</h4>
-<p>At Maxpeak Home Solutions, we specialize in real estate investment and consulting. Our mission is to help sellers achieve their goals by providing tailored solutions that maximize property value and expedite transactions. Whether you're looking to sell quickly, find the best market opportunities, or streamline your investment portfolio, we have the expertise and technology to support your journey. Visit our website to learn more about how we can assist you: <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>.</p>
+<h4 align="left">🏠 About MaxPeak Home Solutions:</h4>
+<p>At MaxPeak Home Solutions, we specialize in real estate investment and consulting. Our mission is to help homeowners and landlords achieve outcomes that align with their needs—not just the market’s. Through technology, strategic negotiation, and local partnerships, we deliver more than just offers—we offer options. Our systems are built in-house and reflect years of experience in creative deal structuring, automation, and lead intelligence.</p>
+<p>Visit our site to learn more: <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">MaxPeak Home Solutions</a>.</p>
 
-- 💬 Curious about the impact of Generative AI? **Let's talk about how it's transforming industries with innovative solutions. Discuss with me the art of building scalable, efficient ML models poised to tackle complex challenges and drive technological advancement. My focus is on harnessing the power of AI to revolutionize the way we approach problems and create opportunities.**
+<h4 align="left">📺 YouTube Channels I Value:</h4>
+<p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
 
-- 📫 How to reach me **cupidconsultingllc@gmail.com**
-- Dealing with a distressed situation or want to sell your home or business ? Reach me at **shane@maxpeakhomesolutions.com**
+<p>💬 Curious about the impact of Generative AI? <strong>Let's talk about how it's transforming industries through domain-specific applications. I'm focused on scalable, contextual models built to serve real people—not just abstract use cases.</strong></p>
 
-- ⚡ More about me **Passionate about soccer, family, financial freedom and innovative solutions that benefit humanity.**
+<p>📫 Email: <strong>cupidconsultingllc@gmail.com</strong><br>
+Real estate inquiries: <strong>shane@maxpeakhomesolutions.com</strong></p>
+
+<p>⚡ More about me: <strong>Soccer player, husband, creator, and forever student of systems that uplift people.</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shane-cupid-92a418b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shane-cupid-92a418b4/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shane-cupid-92a418b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shane Cupid LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
