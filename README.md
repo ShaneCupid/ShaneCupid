@@ -21,29 +21,40 @@
 <p>Find me watching <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset Clips</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
 
 <h4 align="left">🎯 Future Me:</h4>
-<p>The tech future is ripe with opportunity! I'm currently building automation tools for real estate investors and exploring the convergence between AI and precision medicine. I'm passionate about leveraging AI to create impactful solutions in healthcare and government sectors, especially in simulation models and aerospace. My goal is to enhance interoperability within DoD systems, modernizing outdated infrastructures reliant on legacy technologies.</p>
+<p>My vision is rooted in building AI systems that serve people—not just scale. I'm focused on creating tools that reduce friction in critical life pathways, especially for underserved families navigating housing, healthcare, and public services.</p>
+
+<p>Beyond venture-backed trends, I see massive opportunity in rethinking how we deliver social infrastructure using real-time, contextual AI. Whether it's matching families to housing programs or helping patients understand clinical trials, I build for impact, not just innovation.</p>
+
+<p>Long term, I aim to modernize interoperability within DoD and civilian systems—turning legacy bottlenecks into intelligent pipelines that inform, protect, and empower.</p>
 
 <h4 align="left">🛠 Project Highlights:</h4>
-<p>With a deep interest in applying AI to solve real-world challenges, I’ve been honing my skills in automation, systems engineering, and machine learning to drive meaningful impact across diverse industries. My work blends innovation and strategy, leveraging advanced technologies to optimize processes and foster collaboration.</p>
+<p>From government systems to grassroots real estate, I apply AI where complexity meets human need. My approach blends automation, decision intelligence, and user-first design to create high-leverage tools that solve real problems.</p>
 
-<p>🔭 <strong>Passion Projects:</strong></p>
 <ul>
-  <li>Exploring AI applications in <strong>optometry</strong>, where computer vision is at the forefront of advancements in diagnosing and managing ocular conditions. I am actively seeking opportunities to collaborate with professors, doctors, and researchers in this field to further my knowledge and contribute to impactful research.</li>
-  <li>Harnessing the power of AI in <strong>precision medicine</strong> to advance personalized healthcare solutions, focusing on integrating patient data with predictive analytics to improve outcomes.</li>
-  <li>Developing intelligent agents and machine learning models for simulation, predictive analytics, and decision-making in healthcare and aerospace domains.</li>
-  <li>Building automated lead generation systems and streamlining workflows in real estate, including creating data-driven tools for enhanced property acquisition and management processes.</li>
+  <li><strong>AI Pathway Navigator:</strong> A guided decision platform helping families in crisis navigate housing, benefits, and services. Combines dynamic form logic, document intelligence, and contextual LLMs to support both families and caseworkers in real time.</li>
+  <li><strong>Clinical Trial AI Assistant:</strong> My graduate capstone project—a retrieval-augmented chatbot that helps patients and providers identify trial eligibility, understand medical jargon, and improve access to research.</li>
+  <li><strong>Real Estate Automation Stack:</strong> Building proprietary lead-gen and acquisition tools that turn public records into clean insights for creative finance deals. These systems are tailored for high-volume investors seeking win-win solutions for homeowners.</li>
 </ul>
 
-<p>🌱 <strong>Skills in Progress:</strong></p>
+<h4 align="left">🔭 Passion Projects:</h4>
 <ul>
-  <li>Advancing expertise in automation and creative financing strategies to optimize real estate investment workflows and enhance business outcomes.</li>
-  <li>Expanding proficiency in AI ethics to ensure responsible, equitable, and impactful AI applications across industries.</li>
-  <li>Delving deeper into deep learning architectures and computer vision techniques, with a focus on applications in healthcare, optometry, and real estate analytics.</li>
-  <li>Building expertise in data engineering by developing AI tracking systems to streamline data interoperability, modernize legacy systems, and enable real-time insights.</li>
-  <li>Strengthening skills in data visualization and analytical programming to uncover patterns, communicate insights effectively, and drive informed decision-making in diverse domains.</li>
+  <li>Using AI to improve social equity—whether through housing access, health literacy, or service navigation.</li>
+  <li>Applying contextual AI to clinical research and health outreach, helping patients overcome complex eligibility and documentation barriers.</li>
+  <li>Designing intelligent agents for scenario simulation, resource planning, and decision support in aerospace and government sectors.</li>
+  <li>Building a portfolio of proprietary tools for real estate professionals—especially in markets underserved by traditional tech platforms.</li>
 </ul>
 
-<p>👀 <strong>Vision:</strong> To create groundbreaking, tech-driven solutions that revolutionize industries and empower businesses to surpass their goals. My journey is fueled by a relentless pursuit of innovation, a passion for problem-solving, and a commitment to leaving a legacy that inspires future generations of entrepreneurs and creators.</p>
+<h4 align="left">🧠 Capabilities Under Development:</h4>
+<ul>
+  <li>Creating low-latency AI systems from scratch using modular JavaScript frameworks, with planned migration to Python pipelines backed by vectorized retrieval and contextual memory.</li>
+  <li>Expanding expertise in creative financing strategies and automating underwriting logic for real estate investments.</li>
+  <li>Integrating ethical AI principles into high-impact applications for housing, healthcare, and case management.</li>
+  <li>Advancing reinforcement learning and predictive modeling skills to support adaptive systems in real-time decision environments.</li>
+  <li>Building production-level data infrastructure that modernizes how legacy institutions share and act on insight.</li>
+</ul>
+
+<h4 align="left">👀 Vision:</h4>
+<p>To architect AI systems that are resilient, equitable, and scalable—bridging gaps between people and the services they need. I believe technology should not just optimize processes, but uplift lives. My legacy will be in building platforms that bring transparency, choice, and empowerment to the edges of society where it's most needed.</p>
 
 <h4 align="left">🏠 About Maxpeak Home Solutions:</h4>
 <p>At Maxpeak Home Solutions, we specialize in real estate investment and consulting. Our mission is to help sellers achieve their goals by providing tailored solutions that maximize property value and expedite transactions. Whether you're looking to sell quickly, find the best market opportunities, or streamline your investment portfolio, we have the expertise and technology to support your journey. Visit our website to learn more about how we can assist you: <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">Maxpeak Home Solutions</a>.</p>
