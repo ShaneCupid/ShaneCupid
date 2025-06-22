@@ -41,15 +41,6 @@
   <li>Championing ethical AI design in high-impact, real-world applications.</li>
 </ul>
 
-<h4 align="left">🧠 Capabilities Under Development:</h4>
-<ul>
-  <li>Engineering full-stack AI apps using Node.js frontends with Python-based RAG pipelines and persistent memory.</li>
-  <li>Automating creative finance workflows for lead evaluation, seller communication, and real estate underwriting.</li>
-  <li>Fine-tuning healthcare NLP models for summarization and patient-level personalization.</li>
-  <li>Modernizing government systems through AI-powered data processing and workflow automation.</li>
-  <li>Embedding fairness, transparency, and trust into AI systems for public use.</li>
-</ul>
-
 <h4 align="left">👀 Vision:</h4>
 <p>To architect AI systems that are resilient, equitable, and scalable—bridging gaps between people and the services they need. I believe technology should not just optimize processes, but uplift lives. My legacy will be in building platforms that bring transparency, choice, and empowerment to the edges of society where it's most needed.</p>
 
