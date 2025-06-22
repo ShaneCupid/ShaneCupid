@@ -25,11 +25,11 @@
 <p>Looking ahead, I’m committed to modernizing how information flows across institutions like the DoD, healthcare systems, and housing agencies. That means replacing fragmented, legacy processes with transparent, ethical, and interoperable AI frameworks that scale.</p>
 
 <h4 align="left">🛠 Project Highlights:</h4>
-<p>From government systems to grassroots real estate, I apply AI where complexity meets human need. My approach blends automation, decision intelligence, and user-first design to create high-leverage tools that solve real problems.</p>
+<p>I apply AI where complexity meets human need—across public systems, healthcare, and real estate. Every project reflects a commitment to ethical automation, domain-specific intelligence, and outcomes that serve real people.</p>
 <ul>
-  <li><strong>AI Pathway Navigator:</strong> A guided decision platform helping families in crisis navigate housing, benefits, and services. Combines dynamic form logic, document intelligence, and contextual LLMs to support both families and caseworkers in real time.</li>
-  <li><strong>Clinical Trial AI Assistant:</strong> My graduate capstone project—a retrieval-augmented chatbot that helps patients and providers identify trial eligibility, understand medical jargon, and improve access to research.</li>
-  <li><strong>Real Estate Automation Stack:</strong> Building proprietary lead-gen and acquisition tools that turn public records into clean insights for creative finance deals. These systems are tailored for high-volume investors seeking win-win solutions for homeowners.</li>
+  <li><strong>Clinical Trial AI Assistant:</strong> My graduate capstone project—a retrieval-augmented chatbot that helps patients and providers identify trial eligibility, understand medical jargon, and access care faster.</li>
+  <li><strong>Government Systems Automation:</strong> Supporting agencies with AI-based workflows that replace outdated, manual processes with secure, intelligent decision tools.</li>
+  <li><strong>Creative Finance Deal Engine:</strong> Automating lead parsing, evaluation, and outreach for real estate investors working with off-market, distressed, or high-equity assets.</li>
 </ul>
 
 <h4 align="left">🔭 Passion Projects:</h4>
@@ -43,6 +43,13 @@
 
 <h4 align="left">👀 Vision:</h4>
 <p>To architect AI systems that are resilient, equitable, and scalable—bridging gaps between people and the services they need. I believe technology should not just optimize processes, but uplift lives. My legacy will be in building platforms that bring transparency, choice, and empowerment to the edges of society where it's most needed.</p>
+
+<h4 align="left">🚀 About AI Pathway Navigator & PRO:</h4>
+<p>AI Pathway Navigator is a mission-driven platform helping underserved families access housing, benefits, and community services through intelligent intake, document parsing, and conversational guidance. Built for real-world deployment, it supports both families and agency caseworkers by translating complexity into clarity—reducing friction across critical support systems.</p>
+
+<p>Its companion product, Navigator PRO, equips frontline workers with dashboards, automated referrals, and outcome analytics—turning scattered workflows into coordinated action. Together, these tools bridge the gap between people and the services designed to support them.</p>
+
+<p>Both systems are designed with scale, trust, and community relevance at their core—built to meet the needs of city agencies, nonprofits, and statewide social impact programs.</p>
 
 <h4 align="left">🏠 About MaxPeak Home Solutions:</h4>
 <p>At MaxPeak Home Solutions, we specialize in real estate investment and consulting. Our mission is to help homeowners and landlords achieve outcomes that align with their needs—not just the market’s. Through technology, strategic negotiation, and local partnerships, we deliver more than just offers—we offer options. Our systems are built in-house and reflect years of experience in creative deal structuring, automation, and lead intelligence.</p>
