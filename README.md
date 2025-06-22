@@ -1,5 +1,5 @@
-<h1 align="center">✨ Welcome to my page 🛸</h1>
-<h3 align="center">Charting my AI/ML Odyssey 🌱🌍</h3>
+<h1 align="center">🛠️ Architecting Human-Centered Systems with Applied AI 🤖</h1>
+<h3 align="center">🌍 Charting a Path Where Data Meets Human Impact 🚀 </h3>
 
 <h4 align="left">🎓 Education Snapshot:</h4>
 <p>Currently immersing myself in Penn State's MPS in Artificial Intelligence. Venturing beyond, I’m also guiding small real estate entrepreneurs with AI integration into their existing workflows.</p>
