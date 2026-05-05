@@ -1,67 +1,122 @@
-<h1 align="center">🔧✨ Architecting Human-Centered Systems with Applied AI 🌍🤖</h1>
-<h3 align="center">📊🧠 Building AIEYU: AI Infrastructure for Public Good 🚀💡</h3>
-
-<h4 align="left">🎓 Education Snapshot:</h4>
-<p>I earned my MPS in Artificial Intelligence from Penn State, where I focused on reinforcement learning, predictive analytics, and contextual AI systems for healthcare and housing. My graduate capstone project built a next-generation clinical trial navigator—pairing patients with eligible trials and explaining complex medical content through applied NLP and retrieval-augmented systems.</p>
-
-<h4 align="left">🏛 AIEYU: Adaptive AI for Public Systems</h4>
-<p>As Founder of <strong>AIEYU</strong>, I lead the design of adaptive AI infrastructure that empowers communities and modernizes how institutions deliver housing, health, education, and social care.</p>
-
-<ul>
-  <li><strong>AI Pathway Navigator:</strong> An LLM-powered intake and guidance system helping underserved families access housing, benefits, and support services.</li>
-  <li><strong>Navigator PRO:</strong> A decision-support dashboard for agencies and nonprofits, integrating referrals, outcome tracking, and predictive analytics.</li>
-  <li><strong>Applied Research & AR/VR:</strong> Exploring immersive training, blockchain-based records, and predictive analytics to transform public service delivery.</li>
-</ul>
-
-<p>AIEYU’s mission is simple: bridge data, policy, and lived experience into tools that serve real people—not abstract use cases. We design AI infrastructure with transparency, ethics, and scale at the core.</p>
-
-<h4 align="left">📚 Other Focus Areas:</h4>
-<p>Beyond AIEYU, I continue to innovate across public systems, real estate, and defense workflows:</p>
-<ul>
-  <li><strong>Government Systems Automation:</strong> Supporting agencies with AI-based workflows that replace outdated manual processes with secure, intelligent decision tools.</li>
-  <li><strong>Creative Finance Deal Engine:</strong> Scaling automation and lead intelligence for real estate entrepreneurs, with systems built on years of creative finance expertise.</li>
-  <li><strong>Defense & National Security:</strong> Applying data engineering and AI/ML to mission-critical decision-making within DoD environments.</li>
-</ul>
-
-<h4 align="left">🎯 Vision:</h4>
-<p>I’m focused on building contextual AI systems that reduce complexity and restore agency for people navigating real-world challenges. Whether that’s a family searching for housing, a caseworker managing social services, or a patient accessing clinical research, my goal is to make AI systems that are resilient, equitable, and scalable.</p>
-
-<h4 align="left">🛠 Project Highlights:</h4>
-<ul>
-  <li><strong>Clinical Trial AI Assistant:</strong> Graduate capstone project—an NLP-driven chatbot that improves access to trials and demystifies medical jargon.</li>
-  <li><strong>AI Pathway Navigator & PRO:</strong> AIEYU’s flagship platforms for families and agencies—turning fragmented processes into guided, actionable systems.</li>
-  <li><strong>Creative Finance Automation:</strong> Proprietary frameworks that help real estate operators structure ethical, scalable deals using data and intelligent outreach.</li>
-</ul>
-
-<h4 align="left">🏠 MaxPeak Home Solutions:</h4>
-<p>At MaxPeak Home Solutions, we merge creative finance with automation to support homeowners and landlords. We don’t just make offers—we provide options. Our systems are built in-house and reflect deep expertise in negotiation, lead intelligence, and technology integration.</p>
-<p>Visit: <a href="https://www.buyer.maxpeakconsulting.com/home785706" target="_blank">MaxPeak Home Solutions</a>.</p>
-
-<h4 align="left">📺 Channels & Inspiration:</h4>
-<p>Find me learning from <a href="https://www.youtube.com/@lexfridman" target="_blank">Lex Fridman</a>, <a href="https://www.youtube.com/@TomBilyeu" target="_blank">Tom Bilyeu</a>, <a href="https://www.youtube.com/@19KEYS" target="_blank">19KEYS</a>, <a href="https://www.youtube.com/@EarnYourLeisure" target="_blank">Earn Your Leisure</a>, <a href="https://www.youtube.com/@ReventureConsulting" target="_blank">Reventure Consulting</a>, <a href="https://www.youtube.com/@MinorityMindsetClips" target="_blank">Minority Mindset</a>, <a href="https://www.youtube.com/@biggerpockets" target="_blank">BiggerPockets</a>, and <a href="https://www.youtube.com/@MeetKevin" target="_blank">Meet Kevin</a>.</p>
-
-<h4 align="left">📫 Contact:</h4>
-<p>Email: <strong>cupidconsultingllc@gmail.com</strong><br>
-Real estate inquiries: <strong>shane@maxpeakhomesolutions.com</strong></p>
-
-<p>⚡ Beyond work: Soccer player, husband, creator, and lifelong student of systems that uplift people.</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shane-cupid-92a418b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shane Cupid LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D52A0,35:764ba2,70:2D5BBA,100:60A5FA&height=220&section=header&text=Shane%20Cupid&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Founder%20of%20AIEYU%20%7C%20Technology%20That%20Understands%20People&descAlignY=60&descSize=18&font=Manrope" alt="header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+<!-- Story arc tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=20&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=780&lines=From+mission+systems+to+human+systems;Building+AI+infrastructure+for+public+good;Technology+that+strengthens+human+capacity;AIEYU+is+adaptive+infrastructure+for+real+people" alt="tagline" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shane-cupid-92a418b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shane%20Cupid-3D52A0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Founder-AIEYU-764ba2?style=for-the-badge" alt="AIEYU" />
+  <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-Penn%20State-667eea?style=for-the-badge" alt="Penn State" />
+</p>
+
+<br />
+<br />
+
+## About
+
+I'm **Shane Cupid**, Founder of **AIEYU**.
+
+My work sits at the intersection of artificial intelligence, systems design, predictive analytics, and human centered technology. I build systems that reduce complexity and restore agency for real people navigating real world challenges.
+
+<br />
+
+## A Philosophy of Technology
+
+> The next era of AI should not only optimize entertainment, advertising, or productivity. It should help improve how people access housing, healthcare, education, youth services, and community support systems.
+
+I've worked in mission critical defense and data environments where advanced technology influences decision making at massive scale. I've also worked directly alongside underserved communities and families navigating fragmented systems that often feel impossible to understand without insider knowledge.
+
+That tension shaped my perspective:
+
+> **Technology is not neutral. The people designing systems shape the outcomes those systems create.**
+
+That belief became the foundation for AIEYU.
+
+<br />
+
+## Why AIEYU Exists
+
+The institutions responsible for housing, healthcare, education, and community support were not designed for the era of AI. They were designed for an era of paper, queues, eligibility forms, and disconnected data.
+
+The result is fragmentation. People navigating those systems are often asked to be their own translator, their own case manager, their own advocate, with no map and no shared context across the systems that shape their lives.
+
+AIEYU exists to change that. We build adaptive AI infrastructure that helps public systems become more responsive, connected, and human centered. The goal is not to replace the people inside these systems. The goal is to give those people, and the families they serve, infrastructure worthy of the work.
+
+<br />
+
+## Mission and Systems Vision
+
+> The future of AI should not belong only to platforms optimizing attention and consumption.
+>
+> It should also belong to the systems responsible for helping people **live, heal, grow, and rebuild**.
+
+From the United States to emerging conversations across Germany and Africa, my mission is to help shape technology that strengthens human capacity instead of replacing it. That means infrastructure that is adaptive rather than rigid, predictive rather than reactive, and accountable to the communities it serves.
+
+<br />
+
+## The AIEYU Ecosystem
+
+AIEYU is an adaptive AI infrastructure company focused on the future of public systems.
+
+The ecosystem includes:
+
+- **U Navigate** &nbsp;·&nbsp; adaptive guidance systems
+- **U Core** &nbsp;·&nbsp; executive intelligence infrastructure
+- **U Lexi** &nbsp;·&nbsp; conversational AI coordination
+- **U Insight** &nbsp;·&nbsp; predictive analytics and early signals
+- **U Gauge** &nbsp;·&nbsp; system readiness and maturity assessment
+- **U Realm** &nbsp;·&nbsp; immersive learning and simulation
+
+Together, these systems are designed to help organizations and communities move from fragmented workflows toward connected, human centered infrastructure.
+
+<br />
+
+## Technical Foundations
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-3D52A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-667eea?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Systems%20Innovation-764ba2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Human%20Centered%20AI-2D5BBA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-3B82F6?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Workflow%20Automation-3D52A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Immersive%20Technology-667eea?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Decision%20Support%20Systems-764ba2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Applied%20Machine%20Learning-2D5BBA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems%20Architecture-3B82F6?style=for-the-badge" />
+</p>
+
+**M.S. Artificial Intelligence** &nbsp;·&nbsp; Penn State University
+
+<br />
+
+## Beyond Work
+
+Dad. Husband. Soccer player. Entrepreneur. Systems thinker. Creator. Currently exploring Europe and a lifelong student of technology, human behavior, and institutional transformation.
+
+<br />
+<br />
+
+<p align="center">
+  <i>If we build systems that understand people, we build systems worth keeping.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shane-cupid-92a418b4/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-3D52A0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
+  </a>
+</p>
+
+<!-- Footer (mirrors header) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,35:2D5BBA,70:764ba2,100:3D52A0&height=120&section=footer" alt="footer" />
 </p>
