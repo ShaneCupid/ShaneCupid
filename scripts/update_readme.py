@@ -39,27 +39,24 @@ def esc(s: str) -> str:
 
 
 def building_block() -> str:
+    """One line per repo: commit count and last push. No messages, no links."""
     cfg = CONFIG["building"]
     since = (datetime.now(timezone.utc) - timedelta(days=cfg["lookback_days"])).isoformat()
-    rows = []
+    lines = []
     for repo in CONFIG["repos"]:
         try:
-            commits = gh(f"/repos/{repo}/commits?since={since}&per_page={cfg['max_commits']}")
+            commits = gh(f"/repos/{repo}/commits?since={since}&per_page=100")
         except Exception as e:  # noqa: BLE001
             print(f"warn: {repo}: {e}", file=sys.stderr)
             continue
-        for c in commits:
-            msg = c["commit"]["message"].splitlines()[0][:80]
-            date = c["commit"]["author"]["date"][:10]
-            rows.append((date, repo, msg, c["html_url"]))
-    if not rows:
-        return "_Quiet fortnight. Check the repos above._"
-    rows.sort(reverse=True)
-    lines = ["| Date | Repo | Commit |", "|---|---|---|"]
-    for date, repo, msg, url in rows[: cfg["max_commits"]]:
+        if not commits:
+            continue
+        last = max(c["commit"]["author"]["date"][:10] for c in commits)
+        n = len(commits)
         name = repo.split("/")[-1]
-        lines.append(f"| {date} | `{name}` | [{esc(msg)}]({url}) |")
-    return "\n".join(lines)
+        plural = "s" if n != 1 else ""
+        lines.append(f"- **{name}** · {n} commit{plural} in the last {cfg['lookback_days']} days · last push {last}")
+    return "\n".join(lines) if lines else "_Quiet fortnight._"
 
 
 def releases_block() -> str:
