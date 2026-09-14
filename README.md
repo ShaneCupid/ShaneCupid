@@ -18,7 +18,13 @@ I'm Shane Cupid, founder of **AIEYU**. We build adaptive AI infrastructure for t
 ## Building now
 
 <!-- AIEYU:BUILDING:START -->
-_Populated automatically by `.github/workflows/update-readme.yml`._
+| Date | Repo | Commit |
+|---|---|---|
+| 2026-09-14 | `u-navigate` | [chore(legal): bump privacy version for the OCR disclosure; add a per-version cha](https://github.com/ShaneCupid/u-navigate/commit/cf1f96c3eb846103d3b2c6806b3ff9936e59ccdf) |
+| 2026-09-14 | `u-navigate` | [chore(ai): centralize every model string into lib/ai/models.ts (no behavior chan](https://github.com/ShaneCupid/u-navigate/commit/e2ccba9b8d8004ae82caa422128b319152e1099d) |
+| 2026-09-14 | `u-navigate` | [Merge feat/document-ocr: image upload with OCR, the send queue holds photos, the](https://github.com/ShaneCupid/u-navigate/commit/74c5186fac098b3c80658999ebcab97d8a3ad5c1) |
+| 2026-09-14 | `u-navigate` | [Merge chore/privacy-version-bump: re-consent every user for the OCR data disclos](https://github.com/ShaneCupid/u-navigate/commit/fe3cc38ecbb5ca553132e3069548daa1c48d2ee7) |
+| 2026-09-14 | `u-navigate` | [Merge chore/centralize-model-config: one config module for every AI model string](https://github.com/ShaneCupid/u-navigate/commit/82449ff55034c8a1ce8f893a4da5f0813939268d) |
 <!-- AIEYU:BUILDING:END -->
 
 ## The AIEYU ecosystem
@@ -42,7 +48,7 @@ Every feature is co-designed with the community and people with lived experience
 ## Latest releases
 
 <!-- AIEYU:RELEASES:START -->
-_Populated automatically by `.github/workflows/update-readme.yml`._
+_No published releases yet._
 <!-- AIEYU:RELEASES:END -->
 
 ## Activity
@@ -61,4 +67,5 @@ Dad. Husband. Soccer player. Systems thinker.
 <p align="center"><i>If we build systems that understand people, we build systems worth keeping.</i></p>
 
 <!-- AIEYU:UPDATED:START -->
+<sub>Auto-updated 2026-09-14 23:06 UTC</sub>
 <!-- AIEYU:UPDATED:END -->
