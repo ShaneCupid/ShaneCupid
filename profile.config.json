@@ -4,7 +4,7 @@
     "ShaneCupid/u-navigate",
     "ShaneCupid/AIEYU"
   ],
-  "building": { "max_commits": 5, "lookback_days": 14 },
+  "building": { "lookback_days": 14, "colors": ["#3D52A0", "#764ba2"] },
   "releases": { "max_releases": 3 },
   "feed": { "enabled": false, "url": "", "max_items": 3 }
 }
