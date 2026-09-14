@@ -1,0 +1,9 @@
+{
+  "github_user": "ShaneCupid",
+  "repos": [
+    "ShaneCupid/u-navigate"
+  ],
+  "building": { "max_commits": 5, "lookback_days": 14 },
+  "releases": { "max_releases": 3 },
+  "feed": { "enabled": false, "url": "", "max_items": 3 }
+}
