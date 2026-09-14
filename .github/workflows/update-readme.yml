@@ -38,9 +38,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet README.md; then
+          git add README.md assets/commits.svg
+          if git diff --cached --quiet; then
             echo "no changes"; exit 0
           fi
-          git add README.md
           git commit -m "chore(readme): refresh auto sections"
           git push
