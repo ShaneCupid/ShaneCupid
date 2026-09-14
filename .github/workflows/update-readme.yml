@@ -1,0 +1,46 @@
+name: Update README sections
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # daily 05:17 UTC (off the :00 spike)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render sections
+        env:
+          # PROFILE_TOKEN: fine-grained PAT, read-only Contents on the AIEYU repos.
+          # Required only if any repo in profile.config.json is private.
+          # Falls back to GITHUB_TOKEN (public repos only).
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readme.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet README.md; then
+            echo "no changes"; exit 0
+          fi
+          git add README.md
+          git commit -m "chore(readme): refresh auto sections"
+          git push
