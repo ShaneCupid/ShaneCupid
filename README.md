@@ -63,5 +63,5 @@ Dad. Husband. Soccer player. Systems thinker.
 <p align="center"><i>If we build systems that understand people, we build systems worth keeping.</i></p>
 
 <!-- AIEYU:UPDATED:START -->
-<sub>Auto-updated 2026-10-11 11:27 UTC</sub>
+<sub>Auto-updated 2026-10-12 13:15 UTC</sub>
 <!-- AIEYU:UPDATED:END -->
