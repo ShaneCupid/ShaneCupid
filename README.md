@@ -20,7 +20,7 @@ I'm Shane Cupid, founder of **AIEYU**. We build adaptive AI infrastructure for t
 <!-- AIEYU:BUILDING:START -->
 <img src="./assets/commits.svg" alt="Commits per day across AIEYU repos" width="100%">
 
-- **u-navigate** · 113 commits in the last 14 days · last push 2026-10-28
+- **u-navigate** · 154 commits in the last 14 days · last push 2026-10-30
 - **AIEYU** · 14 commits in the last 14 days · last push 2026-10-24
 <!-- AIEYU:BUILDING:END -->
 
@@ -64,5 +64,5 @@ Dad. Husband. Soccer player. Systems thinker.
 <p align="center"><i>If we build systems that understand people, we build systems worth keeping.</i></p>
 
 <!-- AIEYU:UPDATED:START -->
-<sub>Auto-updated 2026-10-29 11:35 UTC</sub>
+<sub>Auto-updated 2026-10-30 11:26 UTC</sub>
 <!-- AIEYU:UPDATED:END -->
