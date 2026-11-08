@@ -1,46 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 260" width="100%" role="img" aria-label="Commits per day, last 14 days">
 <style>text{font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;fill:#6b7280}@media(prefers-color-scheme:dark){text{fill:#9ca3af}}</style>
-<rect x="56.3" y="180.0" width="53.1" height="30.0" rx="3" fill="#3D52A0"/>
-<text x="82.9" y="172.0" font-size="14" text-anchor="middle">9</text>
-<text x="82.9" y="232" font-size="13" text-anchor="middle">10-25</text>
-<rect x="142.0" y="163.3" width="53.1" height="46.7" rx="3" fill="#3D52A0"/>
-<text x="168.6" y="155.3" font-size="14" text-anchor="middle">14</text>
-<text x="168.6" y="232" font-size="13" text-anchor="middle">10-26</text>
-<rect x="227.7" y="136.7" width="53.1" height="73.3" rx="3" fill="#3D52A0"/>
-<text x="254.3" y="128.7" font-size="14" text-anchor="middle">22</text>
-<text x="254.3" y="232" font-size="13" text-anchor="middle">10-27</text>
-<rect x="313.4" y="90.0" width="53.1" height="120.0" rx="3" fill="#3D52A0"/>
-<text x="340.0" y="82.0" font-size="14" text-anchor="middle">36</text>
-<text x="340.0" y="232" font-size="13" text-anchor="middle">10-28</text>
-<rect x="399.1" y="83.3" width="53.1" height="126.7" rx="3" fill="#3D52A0"/>
-<text x="425.7" y="75.3" font-size="14" text-anchor="middle">38</text>
-<text x="425.7" y="232" font-size="13" text-anchor="middle">10-29</text>
-<rect x="484.9" y="66.7" width="53.1" height="143.3" rx="3" fill="#3D52A0"/>
-<text x="511.4" y="58.7" font-size="14" text-anchor="middle">43</text>
-<text x="511.4" y="232" font-size="13" text-anchor="middle">10-30</text>
-<rect x="570.6" y="120.0" width="53.1" height="90.0" rx="3" fill="#3D52A0"/>
-<text x="597.1" y="112.0" font-size="14" text-anchor="middle">27</text>
-<text x="597.1" y="232" font-size="13" text-anchor="middle">10-31</text>
-<rect x="656.3" y="40.0" width="53.1" height="170.0" rx="3" fill="#3D52A0"/>
-<text x="682.9" y="32.0" font-size="14" text-anchor="middle">51</text>
-<text x="682.9" y="232" font-size="13" text-anchor="middle">11-01</text>
-<rect x="742.0" y="120.0" width="53.1" height="90.0" rx="3" fill="#3D52A0"/>
-<text x="768.6" y="112.0" font-size="14" text-anchor="middle">27</text>
-<text x="768.6" y="232" font-size="13" text-anchor="middle">11-02</text>
-<rect x="827.7" y="143.3" width="53.1" height="66.7" rx="3" fill="#3D52A0"/>
-<text x="854.3" y="135.3" font-size="14" text-anchor="middle">20</text>
-<text x="854.3" y="232" font-size="13" text-anchor="middle">11-03</text>
-<rect x="913.4" y="136.7" width="53.1" height="73.3" rx="3" fill="#3D52A0"/>
-<text x="940.0" y="128.7" font-size="14" text-anchor="middle">22</text>
-<text x="940.0" y="232" font-size="13" text-anchor="middle">11-04</text>
-<rect x="999.1" y="146.7" width="53.1" height="63.3" rx="3" fill="#3D52A0"/>
-<text x="1025.7" y="138.7" font-size="14" text-anchor="middle">19</text>
-<text x="1025.7" y="232" font-size="13" text-anchor="middle">11-05</text>
-<rect x="1084.9" y="196.7" width="53.1" height="13.3" rx="3" fill="#3D52A0"/>
-<rect x="1084.9" y="173.3" width="53.1" height="23.3" rx="3" fill="#764ba2"/>
-<text x="1111.4" y="165.3" font-size="14" text-anchor="middle">11</text>
-<text x="1111.4" y="232" font-size="13" text-anchor="middle">11-06</text>
-<text x="1197.1" y="232" font-size="13" text-anchor="middle">11-07</text>
+<rect x="56.3" y="163.3" width="53.1" height="46.7" rx="3" fill="#3D52A0"/>
+<text x="82.9" y="155.3" font-size="14" text-anchor="middle">14</text>
+<text x="82.9" y="232" font-size="13" text-anchor="middle">10-26</text>
+<rect x="142.0" y="136.7" width="53.1" height="73.3" rx="3" fill="#3D52A0"/>
+<text x="168.6" y="128.7" font-size="14" text-anchor="middle">22</text>
+<text x="168.6" y="232" font-size="13" text-anchor="middle">10-27</text>
+<rect x="227.7" y="90.0" width="53.1" height="120.0" rx="3" fill="#3D52A0"/>
+<text x="254.3" y="82.0" font-size="14" text-anchor="middle">36</text>
+<text x="254.3" y="232" font-size="13" text-anchor="middle">10-28</text>
+<rect x="313.4" y="83.3" width="53.1" height="126.7" rx="3" fill="#3D52A0"/>
+<text x="340.0" y="75.3" font-size="14" text-anchor="middle">38</text>
+<text x="340.0" y="232" font-size="13" text-anchor="middle">10-29</text>
+<rect x="399.1" y="66.7" width="53.1" height="143.3" rx="3" fill="#3D52A0"/>
+<text x="425.7" y="58.7" font-size="14" text-anchor="middle">43</text>
+<text x="425.7" y="232" font-size="13" text-anchor="middle">10-30</text>
+<rect x="484.9" y="120.0" width="53.1" height="90.0" rx="3" fill="#3D52A0"/>
+<text x="511.4" y="112.0" font-size="14" text-anchor="middle">27</text>
+<text x="511.4" y="232" font-size="13" text-anchor="middle">10-31</text>
+<rect x="570.6" y="40.0" width="53.1" height="170.0" rx="3" fill="#3D52A0"/>
+<text x="597.1" y="32.0" font-size="14" text-anchor="middle">51</text>
+<text x="597.1" y="232" font-size="13" text-anchor="middle">11-01</text>
+<rect x="656.3" y="120.0" width="53.1" height="90.0" rx="3" fill="#3D52A0"/>
+<text x="682.9" y="112.0" font-size="14" text-anchor="middle">27</text>
+<text x="682.9" y="232" font-size="13" text-anchor="middle">11-02</text>
+<rect x="742.0" y="143.3" width="53.1" height="66.7" rx="3" fill="#3D52A0"/>
+<text x="768.6" y="135.3" font-size="14" text-anchor="middle">20</text>
+<text x="768.6" y="232" font-size="13" text-anchor="middle">11-03</text>
+<rect x="827.7" y="136.7" width="53.1" height="73.3" rx="3" fill="#3D52A0"/>
+<text x="854.3" y="128.7" font-size="14" text-anchor="middle">22</text>
+<text x="854.3" y="232" font-size="13" text-anchor="middle">11-04</text>
+<rect x="913.4" y="146.7" width="53.1" height="63.3" rx="3" fill="#3D52A0"/>
+<text x="940.0" y="138.7" font-size="14" text-anchor="middle">19</text>
+<text x="940.0" y="232" font-size="13" text-anchor="middle">11-05</text>
+<rect x="999.1" y="196.7" width="53.1" height="13.3" rx="3" fill="#3D52A0"/>
+<rect x="999.1" y="173.3" width="53.1" height="23.3" rx="3" fill="#764ba2"/>
+<text x="1025.7" y="165.3" font-size="14" text-anchor="middle">11</text>
+<text x="1025.7" y="232" font-size="13" text-anchor="middle">11-06</text>
+<rect x="1084.9" y="116.7" width="53.1" height="93.3" rx="3" fill="#764ba2"/>
+<text x="1111.4" y="108.7" font-size="14" text-anchor="middle">28</text>
+<text x="1111.4" y="232" font-size="13" text-anchor="middle">11-07</text>
+<text x="1197.1" y="232" font-size="13" text-anchor="middle">11-08</text>
 <rect x="40" y="12" width="14" height="14" rx="3" fill="#3D52A0"/>
 <text x="60" y="24" font-size="14">u-navigate</text>
 <rect x="180" y="12" width="14" height="14" rx="3" fill="#764ba2"/>
